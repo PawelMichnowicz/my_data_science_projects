@@ -6,4 +6,4 @@
 * Importing and processing images 
 * Image data analysis 
 * Determining the apriopriate type of phase of microstructure
-* Calculation of the percentage of each phase
+* Calculation of the percentage of each type of phase
