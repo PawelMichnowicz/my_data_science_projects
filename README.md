@@ -9,6 +9,8 @@
 *  Visualization obtained results
 *  Repeating the whole process on new genarated data
 
+![sample visualization](https://i.ibb.co/897mF0s/obraz.png)
+
 # [Project: Analysis of the microstructure of fuel cell in MATLAB](https://github.com/PawelMichnowicz/matlab_code)
 * Importing and processing images 
 * Image data analysis 
