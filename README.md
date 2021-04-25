@@ -3,7 +3,7 @@
 
 
 
-# [Project: Customers classification](https://github.com/PawelMichnowicz/Clasification/blob/main/customers2.ipynb)
+# [Project: Customer classification - Unsupervised learning](https://github.com/PawelMichnowicz/Clasification/blob/main/customers2.ipynb)
 *  Preprocessing and visualization data
 *  Classification by using machine learning methods
 *  Visualization obtained results
