@@ -11,6 +11,11 @@
 
 ![sample visualization](https://i.ibb.co/897mF0s/obraz.png)
 
+# [Project: Comparison of regression methods - Supervised learning](https://github.com/PawelMichnowicz/comparison_regression/blob/main/regression.ipynb)
+* Preprocessing and cleaning data
+* Using regression methods
+* Comparison and evaulation models
+
 # [Project: Analysis of the microstructure of fuel cell in MATLAB](https://github.com/PawelMichnowicz/matlab_code)
 * Importing and processing images 
 * Image data analysis 
