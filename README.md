@@ -1,9 +1,11 @@
 # My Projects
 
 
-# [Project: Titanic classification - Supervised learning](https://github.com/PawelMichnowicz/Supervised---classification-/blob/main/titanic_classification.ipynb)
-*  Preprocessing and visualization data
+# [Project: Titanic classification - Supervised learning](https://github.com/PawelMichnowicz/Supervised---classification-/blob/main/titanic.ipynb)
+*  Viewing and visualization data
+*  Preprocessing data
 *  Classification by using machine learning methods
+*  Choosing best method by cross validation and grid search
 
 # [Project: Customer classification - Unsupervised learning](https://github.com/PawelMichnowicz/Clasification/blob/main/customers2.ipynb)
 *  Preprocessing and visualization data
