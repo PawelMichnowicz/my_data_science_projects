@@ -1,5 +1,8 @@
 # My Projects
 
+# [Project: Music genre and lyrics classification](https://github.com/PawelMichnowicz/Supervised---classification-/blob/main/titanic.ipynb)
+*  Viewing and visualization data
+*  Preprocessing data
 
 # [Project: Titanic classification - Supervised learning](https://github.com/PawelMichnowicz/Supervised---classification-/blob/main/titanic.ipynb)
 *  Viewing and visualization data
