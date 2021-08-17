@@ -1,6 +1,6 @@
 # My Projects
 
-# [Project: Music genre and lyrics classification](https://colab.research.google.com/drive/1D4pjaOJs0HAL-KSMb54zeFagTzfWyf1W#scrollTo=QXkQhG5r8JzF)
+# [Project: Music genre and lyrics cloud of words](https://colab.research.google.com/drive/1D4pjaOJs0HAL-KSMb54zeFagTzfWyf1W#scrollTo=QXkQhG5r8JzF)
 *  Viewing and visualization data
 *  Preprocessing data (Tokenization, lemmatization, Stop-words, 
 
