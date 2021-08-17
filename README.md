@@ -1,8 +1,8 @@
 # My Projects
 
-# [Project: Music genre and lyrics classification](https://github.com/PawelMichnowicz/Supervised---classification-/blob/main/titanic.ipynb)
+# [Project: Music genre and lyrics classification](https://colab.research.google.com/drive/1D4pjaOJs0HAL-KSMb54zeFagTzfWyf1W#scrollTo=QXkQhG5r8JzF)
 *  Viewing and visualization data
-*  Preprocessing data
+*  Preprocessing data (Tokenization, lemmatization, Stop-words, 
 
 # [Project: Titanic classification - Supervised learning](https://github.com/PawelMichnowicz/Supervised---classification-/blob/main/titanic.ipynb)
 *  Viewing and visualization data
