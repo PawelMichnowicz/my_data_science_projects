@@ -1,11 +1,11 @@
 # My Projects
 
-# [Project: Music genre and lyrics cloud of words - unifinished](https://colab.research.google.com/drive/1D4pjaOJs0HAL-KSMb54zeFagTzfWyf1W#scrollTo=QXkQhG5r8JzF)
+# [Project: Music genre and lyrics cloud of words - unfinished](https://colab.research.google.com/drive/1D4pjaOJs0HAL-KSMb54zeFagTzfWyf1W#scrollTo=QXkQhG5r8JzF)
 *  Viewing and visualization data
 *  Preprocessing data (Tokenization, lemmatization, Stop-words, CounterVectorizer, Cloud of words...) 
 
 
-# [Project: ANN Classification of clothes - unifinished](https://github.com/PawelMichnowicz/Supervised---classification-/blob/main/ANN_classifier.ipynb)
+# [Project: ANN Classification of clothes - unfinished](https://github.com/PawelMichnowicz/Supervised---classification-/blob/main/ANN_classifier.ipynb)
 
 # [Project: Titanic classification - Supervised learning](https://github.com/PawelMichnowicz/Supervised---classification-/blob/main/titanic.ipynb)
 *  Viewing and visualization data
